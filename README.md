@@ -4,5 +4,5 @@ ax2+bx+c=0
 
 Read the post "A tale of programming languages" (https://40plusyearsprogramming.blogspot.com/2024/05/a-tale-of-programming-languages.html)
 <P>
-  The document "**program raices.doc**" includes the codes written by using PASCAL, C++, FORTRAN 77, and LISP
+  The document "program raices.doc" includes the codes written by using PASCAL, C++, FORTRAN 77, and LISP
 </P>
